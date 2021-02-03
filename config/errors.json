@@ -1,0 +1,12 @@
+//WORK ON LATER
+
+{
+"invalid_channel": "The channel provided doesn't exist.",
+"invalid_perms": "Oh No! You don't have the required permissions to run this command. `{perms}`",
+"dev_cmd": "This command *totally* doesn't exist.. yea.. Ok, it does exist but its a **Developer Command**.",
+"error": "There was an error running this command. Maybe call upon my support team.",
+"soon": "This command is still in development. Only the developers can use it.",
+"logs": "Your Server Logs aren't set. Can you fix that?"
+
+
+}
